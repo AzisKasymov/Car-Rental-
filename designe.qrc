@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/pin_drop_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/calendar_month_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/call_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/call_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24 (1).svg</file>
+    <file>icons/directions_car_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/mail_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/person_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/schedule_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/calendar_month_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/call_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/home_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/mail_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/person_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/schedule_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/call_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg</file>
+  </qresource>
+</RCC>
