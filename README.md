@@ -137,11 +137,4 @@ The **SQLite** database stores all data, and operations like creating rentals, u
 
 The **Car Rental System** provides a fully functional backend for managing users, cars, and rental transactions. The system is built to be scalable, easy to maintain, and extendable for future features.
 
----
 
-## **License**
-This project is licensed under the MIT License.
-
----
-
-This README should serve as a clear guide for anyone who wishes to understand, set up, or contribute to the Car Rental System project. If you have any questions or need additional help, feel free to reach out!
