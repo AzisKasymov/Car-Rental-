@@ -2,7 +2,7 @@
 
 ---
 
-## **Project Overview**
+## **Project title: Car Renatal System**
 This project is a **Car Rental System** that enables users to view available cars, book rentals, and manage their account details. The system differentiates between regular users and admins, with admins having additional privileges to manage cars and view all rentals.
 
 The system is designed using the **Model-View-Controller (MVC)** architecture, which helps maintain clean separation of concerns. The backend uses an SQLite database (`car.db`) to store user, car, and rental information.
