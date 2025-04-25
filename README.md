@@ -171,6 +171,7 @@ The **SQLite** database stores all data, and operations like creating rentals, u
 The **Car Rental System** provides a fully functional backend for managing users, cars, and rental transactions. The system is built to be scalable, easy to maintain, and extendable for future features.
 
 ```
+## **UML:**
 @startuml
 
 class Model {
