@@ -137,4 +137,52 @@ The **SQLite** database stores all data, and operations like creating rentals, u
 
 The **Car Rental System** provides a fully functional backend for managing users, cars, and rental transactions. The system is built to be scalable, easy to maintain, and extendable for future features.
 
+```
+@startuml
 
+class Model {
+    +add_user(name, email, password, is_admin)
+    +get_user(user_id)
+    +list_users()
+    +authenticate_user(email, password)
+    +add_car(type, model, name, price)
+    +list_cars()
+    +get_car(car_id)
+    +search_cars(term)
+    +update_car(car_id, type_, model, name, price)
+    +delete_car(car_id)
+    +book_rental(user_id, car_id, start_date, end_date)
+    +list_rentals()
+}
+
+class CarDAO {
+    +add_car(type_, model, name, price)
+    +get_car_by_id(id)
+    +get_all_cars()
+    +update_car(id, **fields)
+    +delete_car_by_id(id)
+}
+
+class UserDAO {
+    +add_user(name, email, password, is_admin)
+    +get_user_by_email(email)
+}
+
+class RentalDAO {
+    +add_rental(user_id, car_id, start_date, end_date)
+    +get_rental_by_id(rental_id)
+    +get_rentals_by_user_id(user_id)
+    +get_all_rentals()
+    +update_rental(rental_id, **fields)
+    +delete_rental_by_id(rental_id)
+}
+
+Model --> CarDAO
+Model --> UserDAO
+Model --> RentalDAO
+CarDAO --> BaseDAO
+UserDAO --> BaseDAO
+RentalDAO --> BaseDAO
+
+@enduml
+```
