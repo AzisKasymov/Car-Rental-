@@ -28,7 +28,7 @@ User Feedback UI – Error, success, and information messages shown via message 
 
 Team Members:
 Zamirbek uulu Baisal
-Zaynabidinov Saidislom
+Zainabidinov Saidislom
 Kasymov Azis
 
 Roles and Responsibilities:
@@ -40,7 +40,7 @@ Connected UI elements with backend logic using PyQt5 slots and signals.
 Maintained overall project structure and ensured modular coding standards.
 Focus: Application interface, user interaction flow, and integration of GUI components with backend logic.
 
-Zaynabidinov Saidislom – Backend Developer & Database Specialist
+Zainabidinov Saidislom – Backend Developer & Database Specialist
 Responsibilities:
 Developed backend functionality including reservation logic and user management.
 Designed and maintained the SQLite database schema for users and reservations.
@@ -48,7 +48,7 @@ Handled registration, login logic, and secure data storage.
 Ensured consistency between data states and UI updates.
 Focus: Backend functionality, database operations, data validation, and business logic.
 
-Kasimov Aziz – Documentation & Presentation Lead
+Kasimov Azis – Documentation & Presentation Lead
 Responsibilities:
 Created the README file with project overview, setup instructions, and contribution guide.
 Designed the project presentation for team and instructor evaluations.
