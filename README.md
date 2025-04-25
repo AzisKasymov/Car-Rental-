@@ -3,13 +3,14 @@
 ---
 
 ## **Project title: Car Renatal System**
+## **Project Description:**
 This project is a **Car Rental System** that enables users to view available cars, book rentals, and manage their account details. The system differentiates between regular users and admins, with admins having additional privileges to manage cars and view all rentals.
 
 The system is designed using the **Model-View-Controller (MVC)** architecture, which helps maintain clean separation of concerns. The backend uses an SQLite database (`car.db`) to store user, car, and rental information.
 
 ---
 
-## **Key Features**
+## **Project Requirements List:**
 
 ### **User Management**
 - **User Types**: There are two types of users in the system:
@@ -56,6 +57,36 @@ This system follows the **Model-View-Controller (MVC)** pattern to structure the
 - The **Controller** acts as the intermediary between the **Model** and the **View**. It handles the user input (e.g., booking a car, updating rental status) and updates the UI accordingly.
 
 ---
+## **Team Members List:**
+Zamirbek uulu Baisal
+Zainabidinov Saidislom
+Kasymov Azis
+
+## **Roles of Group Members:**
+Zamirbek uulu Baisal – Frontend Designer & Full Stack Developer
+Responsibilities:
+Designed all UI layouts using Qt Designer (.ui files).
+Implemented navigation logic between windows (sedan, crossover, SUV, login, reservation).
+Connected UI elements with backend logic using PyQt5 slots and signals.
+Maintained overall project structure and ensured modular coding standards.
+Focus: Application interface, user interaction flow, and integration of GUI components with backend logic.
+
+Zainabidinov Saidislom – Backend Developer & Database Specialist
+Responsibilities:
+Developed backend functionality including reservation logic and user management.
+Designed and maintained the SQLite database schema for users and reservations.
+Handled registration, login logic, and secure data storage.
+Ensured consistency between data states and UI updates.
+Focus: Backend functionality, database operations, data validation, and business logic.
+
+Kasymov Azis – Documentation & Presentation Lead
+Responsibilities:
+Created the README file with project overview, setup instructions, and contribution guide.
+Designed the project presentation for team and instructor evaluations.
+Managed GitHub repository, including commits, project descriptions, and version control.
+Assisted with light debugging and final testing before delivery.
+Focus: Documentation, version control, communication, and final packaging of the project.
+
 
 ## **Database Design**
 
