@@ -58,11 +58,11 @@ This system follows the **Model-View-Controller (MVC)** pattern to structure the
 
 ---
 ## **Team Members List:**
-## **Zamirbek uulu Baisal
+## **Zamirbek uulu Baisal**
 
-## **Zainabidinov Saidislom
+## **Zainabidinov Saidislom**
 
-## **Kasymov Azis
+## **Kasymov Azis**
 
 ## **Roles of Group Members:**
 Zamirbek uulu Baisal – Frontend Designer & Full Stack Developer
