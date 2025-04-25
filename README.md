@@ -1,4 +1,4 @@
-
+![photo_5213221580535100113_y](https://github.com/user-attachments/assets/3ed2bedc-845f-4aa0-9512-1d015975f337)
 
 ---
 
@@ -222,3 +222,9 @@ RentalDAO --> BaseDAO
 
 @enduml
 ```
+## **Screenshots:**
+![photo_5213221580535100112_y](https://github.com/user-attachments/assets/c6d7558f-3e33-4a20-a07b-41e9c48b093b)
+![photo_5213221580535100114_y](https://github.com/user-attachments/assets/f692c60d-3f0d-47e5-955e-86dabfe7fd2d)
+![photo_5213221580535100115_y](https://github.com/user-attachments/assets/69357b4e-716a-4339-b922-4d841219414a)
+![photo_5213221580535100113_y](https://github.com/user-attachments/assets/e30fc01d-2d04-4449-9ce3-ea1c97956a1d)
+
