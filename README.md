@@ -1,4 +1,4 @@
-![photo_5213221580535100113_y](https://github.com/user-attachments/assets/3ed2bedc-845f-4aa0-9512-1d015975f337)
+
 
 ---
 
