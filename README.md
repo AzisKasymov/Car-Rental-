@@ -13,9 +13,9 @@ The system is designed using the **Model-View-Controller (MVC)** architecture, w
 ## **Project Requirements List:**
 
 ### **User Management**
-- **User Types**: There are two types of users in the system:
+- **User Types**: 
   - **Regular Users**: Can register, log in, view available cars, and make bookings.
-  - **Admins**: Have additional privileges to manage cars (add, edit, delete) and view all rental transactions.
+  - 
 
 - **Authentication**:
   - Users can register for an account with an email and password.
