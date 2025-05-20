@@ -96,7 +96,7 @@ The system relies on an **SQLite** database (`car.db`), which is initialized thr
    - Stores details about available cars for rent.
    - Columns: `car_id`, `type`, `model`, `name`, `price`.
    
-3. **Rentals Table**
+3. **History Table**
    - Tracks rental transactions.
    - Columns: `rental_id`, `user_id`, `car_id`, `start_date`, `end_date`, `returned`.
 
