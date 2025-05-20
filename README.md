@@ -20,11 +20,6 @@ The system is designed using the **Model-View-Controller (MVC)** architecture, w
   - Users can register for an account with an email and password.
   - Admins can access the admin panel to manage cars and view rental history.
 
-### **Car Management**
-- **Admin Privileges**: Admins can manage the car inventory. This includes:
-  - Adding new cars to the system.
-  - Editing car details (e.g., changing price or model).
-  - Removing cars from the system.
 
 - **Car Details**:
   - Each car has associated details such as **type** (e.g., SUV, Sedan), **model**, **name**, and **price** (rental cost).
