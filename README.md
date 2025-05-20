@@ -15,8 +15,7 @@ The system is designed using the **Model-View-Controller (MVC)** architecture, w
 ### **User Management**
 - **User Types**: 
   - **Regular Users**: Can register, log in, view available cars, and make bookings.
-  - 
-
+    
 - **Authentication**:
   - Users can register for an account with an email and password.
   - Admins can access the admin panel to manage cars and view rental history.
