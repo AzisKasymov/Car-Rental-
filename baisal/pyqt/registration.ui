@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>271</width>
+    <height>394</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>10</y>
+     <width>221</width>
+     <height>391</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgba(53,53,53,255)</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QPushButton" name="Book">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>300</y>
+      <width>200</width>
+      <height>35</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:Red;
+font-size:15pt;
+border-radius:7px
+</string>
+    </property>
+    <property name="text">
+     <string>Book</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>100</y>
+      <width>200</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+border-radius: 7px;
+font-size: 9pt;
+color: black;
+</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>Return address</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>:/icon/icons/pin_drop_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg</normaloff>:/icon/icons/pin_drop_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg</iconset>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Airport &quot;Manas&quot;</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Office &quot;PrimeCar&quot;, Chokmorova 256</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QDateTimeEdit" name="dateTimeEdit_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>201</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+border-radius: 7px;
+font-size: 9pt;
+color: black;
+</string>
+    </property>
+   </widget>
+   <widget class="QDateTimeEdit" name="dateTimeEdit_3">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>130</y>
+      <width>201</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+border-radius: 7px;
+font-size: 9pt;
+color: black;
+</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>201</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;
+border-radius: 7px;
+font-size: 9pt;
+color: black;
+</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>Pick up</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Airport &quot;Manas&quot;</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Office &quot;PrimeCar&quot;, Chokmorova 256</string>
+     </property>
+    </item>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
